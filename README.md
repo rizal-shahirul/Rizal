@@ -1,2 +1,2 @@
 # Rizal
-Skrip
+Hello Word
